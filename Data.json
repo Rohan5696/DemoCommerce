@@ -1,0 +1,121 @@
+[{
+    "name": "Coombes",
+    "subName": "Lounge",
+    "rating": 4,
+    "price": 80,
+    "img": "./assets/images/chair1.jpg",
+    "detail":"Modern furniture refers to furniture produced from the late 19th century through the present that is influenced by modernism. Post-World War II ideals of cutting excess, commodification, and practicality of materials in design heavily influenced the aesthetic of the furniture. It was a tremendous departure from all furniture design that had gone before it. There was an opposition to the decorative arts, which included Art Nouveau, Neoclassical, and Victorian styles."
+},
+{
+    "name": "Keeve Set",
+    "subName": "Table & Chair",
+    "rating": 5,
+    "price": 40,
+    "img": "./assets/images/chair2.jpg",
+    "detail":"Modern furniture refers to furniture produced from the late 19th century through the present that is influenced by modernism. Post-World War II ideals of cutting excess, commodification, and practicality of materials in design heavily influenced the aesthetic of the furniture. It was a tremendous departure from all furniture design that had gone before it. There was an opposition to the decorative arts, which included Art Nouveau, Neoclassical, and Victorian styles."
+},
+{
+    "name": "Nille",
+    "subName": "Arm Chair",
+    "rating": 4,
+    "price": 30,
+    "img": "./assets/images/chair3.jpg","detail":"Modern furniture refers to furniture produced from the late 19th century through the present that is influenced by modernism. Post-World War II ideals of cutting excess, commodification, and practicality of materials in design heavily influenced the aesthetic of the furniture. It was a tremendous departure from all furniture design that had gone before it. There was an opposition to the decorative arts, which included Art Nouveau, Neoclassical, and Victorian styles."
+}, {
+    "name": "Momo",
+    "subName": "Shelf",
+    "rating": 4,
+    "price": 60,
+    "img": "./assets/images/chair4.jpg",
+    "detail":"Modern furniture refers to furniture produced from the late 19th century through the present that is influenced by modernism. Post-World War II ideals of cutting excess, commodification, and practicality of materials in design heavily influenced the aesthetic of the furniture. It was a tremendous departure from all furniture design that had gone before it. There was an opposition to the decorative arts, which included Art Nouveau, Neoclassical, and Victorian styles."
+},
+{
+    "name": "Coombes",
+    "subName": "Lounge",
+    "rating": 5,
+    "price": 20,
+    "img": "./assets/images/big-sofa.jpg",
+    "detail":"Modern furniture refers to furniture produced from the late 19th century through the present that is influenced by modernism. Post-World War II ideals of cutting excess, commodification, and practicality of materials in design heavily influenced the aesthetic of the furniture. It was a tremendous departure from all furniture design that had gone before it. There was an opposition to the decorative arts, which included Art Nouveau, Neoclassical, and Victorian styles."
+},
+{
+    "name": "Keeve Set",
+    "subName": "Table & Chair",
+    "rating": 4,
+    "price": 400,
+    "img": "./assets/images/leathersofa.jpg",
+    "detail":"Modern furniture refers to furniture produced from the late 19th century through the present that is influenced by modernism. Post-World War II ideals of cutting excess, commodification, and practicality of materials in design heavily influenced the aesthetic of the furniture. It was a tremendous departure from all furniture design that had gone before it. There was an opposition to the decorative arts, which included Art Nouveau, Neoclassical, and Victorian styles."
+},
+{
+    "name": "Nille",
+    "subName": "Arm Chair",
+    "rating": 4,
+    "price": 200,
+    "img": "./assets/images/old-chair.jpg",
+    "detail":"Modern furniture refers to furniture produced from the late 19th century through the present that is influenced by modernism. Post-World War II ideals of cutting excess, commodification, and practicality of materials in design heavily influenced the aesthetic of the furniture. It was a tremendous departure from all furniture design that had gone before it. There was an opposition to the decorative arts, which included Art Nouveau, Neoclassical, and Victorian styles."
+}, {
+    "name": "Momo",
+    "subName": "Shelf",
+    "rating": 3,
+    "price": 305,
+    "img": "./assets/images/stool.jpg",
+    "detail":"Modern furniture refers to furniture produced from the late 19th century through the present that is influenced by modernism. Post-World War II ideals of cutting excess, commodification, and practicality of materials in design heavily influenced the aesthetic of the furniture. It was a tremendous departure from all furniture design that had gone before it. There was an opposition to the decorative arts, which included Art Nouveau, Neoclassical, and Victorian styles."
+},{
+    "name": "Coombes",
+    "subName": "Lounge",
+    "rating": 4,
+    "price": 80,
+    "img": "./assets/images/chair1.jpg",
+    "detail":"Modern furniture refers to furniture produced from the late 19th century through the present that is influenced by modernism. Post-World War II ideals of cutting excess, commodification, and practicality of materials in design heavily influenced the aesthetic of the furniture. It was a tremendous departure from all furniture design that had gone before it. There was an opposition to the decorative arts, which included Art Nouveau, Neoclassical, and Victorian styles."
+},
+{
+    "name": "Keeve Set",
+    "subName": "Table & Chair",
+    "rating": 5,
+    "price": 40,
+    "img": "./assets/images/chair2.jpg",
+    "detail":"Modern furniture refers to furniture produced from the late 19th century through the present that is influenced by modernism. Post-World War II ideals of cutting excess, commodification, and practicality of materials in design heavily influenced the aesthetic of the furniture. It was a tremendous departure from all furniture design that had gone before it. There was an opposition to the decorative arts, which included Art Nouveau, Neoclassical, and Victorian styles."
+},
+{
+    "name": "Nille",
+    "subName": "Arm Chair",
+    "rating": 4,
+    "price": 30,
+    "img": "./assets/images/chair3.jpg","detail":"Modern furniture refers to furniture produced from the late 19th century through the present that is influenced by modernism. Post-World War II ideals of cutting excess, commodification, and practicality of materials in design heavily influenced the aesthetic of the furniture. It was a tremendous departure from all furniture design that had gone before it. There was an opposition to the decorative arts, which included Art Nouveau, Neoclassical, and Victorian styles."
+}, {
+    "name": "Momo",
+    "subName": "Shelf",
+    "rating": 4,
+    "price": 60,
+    "img": "./assets/images/chair4.jpg",
+    "detail":"Modern furniture refers to furniture produced from the late 19th century through the present that is influenced by modernism. Post-World War II ideals of cutting excess, commodification, and practicality of materials in design heavily influenced the aesthetic of the furniture. It was a tremendous departure from all furniture design that had gone before it. There was an opposition to the decorative arts, which included Art Nouveau, Neoclassical, and Victorian styles."
+},
+{
+    "name": "Coombes",
+    "subName": "Lounge",
+    "rating": 5,
+    "price": 20,
+    "img": "./assets/images/big-sofa.jpg",
+    "detail":"Modern furniture refers to furniture produced from the late 19th century through the present that is influenced by modernism. Post-World War II ideals of cutting excess, commodification, and practicality of materials in design heavily influenced the aesthetic of the furniture. It was a tremendous departure from all furniture design that had gone before it. There was an opposition to the decorative arts, which included Art Nouveau, Neoclassical, and Victorian styles."
+},
+{
+    "name": "Keeve Set",
+    "subName": "Table & Chair",
+    "rating": 4,
+    "price": 400,
+    "img": "./assets/images/leathersofa.jpg",
+    "detail":"Modern furniture refers to furniture produced from the late 19th century through the present that is influenced by modernism. Post-World War II ideals of cutting excess, commodification, and practicality of materials in design heavily influenced the aesthetic of the furniture. It was a tremendous departure from all furniture design that had gone before it. There was an opposition to the decorative arts, which included Art Nouveau, Neoclassical, and Victorian styles."
+},
+{
+    "name": "Nille",
+    "subName": "Arm Chair",
+    "rating": 4,
+    "price": 200,
+    "img": "./assets/images/old-chair.jpg",
+    "detail":"Modern furniture refers to furniture produced from the late 19th century through the present that is influenced by modernism. Post-World War II ideals of cutting excess, commodification, and practicality of materials in design heavily influenced the aesthetic of the furniture. It was a tremendous departure from all furniture design that had gone before it. There was an opposition to the decorative arts, which included Art Nouveau, Neoclassical, and Victorian styles."
+}, {
+    "name": "Momo",
+    "subName": "Shelf",
+    "rating": 3,
+    "price": 305,
+    "img": "./assets/images/stool.jpg",
+    "detail":"Modern furniture refers to furniture produced from the late 19th century through the present that is influenced by modernism. Post-World War II ideals of cutting excess, commodification, and practicality of materials in design heavily influenced the aesthetic of the furniture. It was a tremendous departure from all furniture design that had gone before it. There was an opposition to the decorative arts, which included Art Nouveau, Neoclassical, and Victorian styles."
+}]
