@@ -1,7 +1,15 @@
-This is a project demo that uses Vanilla JS to build a Single Page Application using sample data as a hands-on task provided by deloitte.
+##DemoCommerce
 
+# Prerequistes
+Before serving the project, you need to have Node Version 8.9 and npm 5.5.1 or higher on your system.
 
-Please follow below steps - 
+#Installing
+$ npm install
+
+#JSON Server
+I've used the JSON server to create mock up a fake backend for this project.
+
+#Please follow below steps - 
 
 1. Please clone the repo
 2. Run "npm install" inside the project folder
